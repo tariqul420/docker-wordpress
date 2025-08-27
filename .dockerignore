@@ -1,8 +1,5 @@
 # Ignore configuration and environment files not needed for production
-*.env.local
-*.env.development
-*.env.test
-*.log
+.env*
 
 # Ignore local files and directories
 .git
